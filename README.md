@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Talento Tech
 - 📫 How to reach me ... moroz_axel@hotmail.com
 - 😄 Pronouns: Snekepit
-- ⚡ Fun fact: im biggestballs
 
 <!---
 AxelMoroz/AxelMoroz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
